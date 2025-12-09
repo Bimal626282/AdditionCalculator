@@ -1,0 +1,7 @@
+C:\Users\grbim\source\repos\AdditionCalculator\bin\Debug\AdditionCalculator.exe.config
+C:\Users\grbim\source\repos\AdditionCalculator\bin\Debug\AdditionCalculator.exe
+C:\Users\grbim\source\repos\AdditionCalculator\bin\Debug\AdditionCalculator.pdb
+C:\Users\grbim\source\repos\AdditionCalculator\obj\Debug\AdditionCalculator.csproj.AssemblyReference.cache
+C:\Users\grbim\source\repos\AdditionCalculator\obj\Debug\AdditionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\grbim\source\repos\AdditionCalculator\obj\Debug\AdditionCalculator.exe
+C:\Users\grbim\source\repos\AdditionCalculator\obj\Debug\AdditionCalculator.pdb

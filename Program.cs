@@ -1,0 +1,18 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter first number: ");
+        double num1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter second number: ");
+        double num2 = Convert.ToDouble(Console.ReadLine());
+
+        double sum = num1 + num2;
+
+        Console.WriteLine("Sum = " + sum);
+        Console.ReadLine(); // Keeps window open
+    }
+}
